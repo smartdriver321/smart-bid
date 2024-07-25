@@ -1,0 +1,8 @@
+{
+	"extends": "next/core-web-vitals",
+	"rules": {
+		"no-unused-vars": "warn",
+		"no-duplicate-imports": "warn",
+		"require-await": "warn"
+	}
+}
